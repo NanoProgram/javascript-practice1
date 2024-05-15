@@ -1,7 +1,3 @@
-let mySuperVariable = 'hello';
-console.log(mySuperVariable);
+let variablesAreCool = 2345*7323;
 
-// your code below
-let color = "red"
-
-console.log(color);
+console.log(variablesAreCool);
